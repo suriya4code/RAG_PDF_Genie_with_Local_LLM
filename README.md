@@ -2,9 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/suriya4code/RAG_PDF_Genie_with_Local_LLM/main/output/01_question1.png" alt="rag system q1">
 
+
 <img src="https://raw.githubusercontent.com/suriya4code/RAG_PDF_Genie_with_Local_LLM/main/output/02_question2.png" alt="rag system q2">
 
-<img src="https://raw.githubusercontent.com/suriya4code/RAG_PDF_Genie_with_Local_LLM/main/output/02_question2.png" alt="grag system st">
+
+<img src="https://raw.githubusercontent.com/suriya4code/RAG_PDF_Genie_with_Local_LLM/main/output/04_streamlit_q1.png" alt="grag system st">
 
 
 # Overview
