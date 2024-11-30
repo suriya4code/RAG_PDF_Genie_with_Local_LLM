@@ -50,8 +50,8 @@ log.addHandler(console)
 log.info("PDF Genie is starting...")
 
 # Constants
-DOC_PATH = "./data/fact_sheet.pdf"
-# DOC_PATH = "./data/IRS_instruction_2024.pdf"
+# DOC_PATH = "./data/fact_sheet.pdf"
+DOC_PATH = "./data/IRS_instruction_2024.pdf"
 MODEL_NAME = "llama3.2"
 EMBEDDING_MODEL = "nomic-embed-text"
 VECTOR_STORE_NAME = "simple-rag"
@@ -168,7 +168,7 @@ def main():
     # Step 6: Create Chain
     chain = create_chain(retriever, llm)
 
-    sample_question = "What is the deadline for filing taxes?"
+    sample_question = "What are the tax filling steps for married couple?"
 
     # Run the chain
     res = chain.invoke(input = sample_question)
