@@ -1,6 +1,7 @@
 # PDF Genie
 
-You have a specific question on 100+ pages document, don't worry your local ML model can understand and respond to you based on information/context fed through pdf file.
+#### Use Case:
+Want to know something from a 100+ page PDF? Your personal AI assistant can scan the document, analyze its content, and provide an instant response based on the relevant context
 
 
 ##### Sample output screenshots using Streamlit :
